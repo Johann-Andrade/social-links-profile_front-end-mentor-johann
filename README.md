@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Johann-Andrade/social-links-profile_front-end-mentor-johann)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://johann-andrade.github.io/social-links-profile_front-end-mentor-johann/)
 
 ## My process
 
